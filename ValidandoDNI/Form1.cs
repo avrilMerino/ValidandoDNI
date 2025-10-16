@@ -44,6 +44,7 @@ namespace ValidandoDNI
             {
                 resultado.Text = "DNI no válido";
                 return;
+
             }
 
 
